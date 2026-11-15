@@ -49,7 +49,7 @@ In progress: user search, invitation workflows with expiration, creating a game 
 
 The frontend calls a JSON HTTP API served by FastAPI, and SQLAlchemy maps the backend models to the database. Tested with Python TODO, Node TODO, and MySQL TODO.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="https://github.com/Lightsumo89/Nexus.git">back to top</a></p>
 
 ## Getting Started
 
