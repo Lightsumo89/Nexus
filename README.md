@@ -4,8 +4,6 @@
 
 A sports discovery and community platform that connects players, courts, and organized games.
 
-[Report a Bug](../../issues/new) · [Request a Feature](../../issues/new)
-
 Status: early prototype, running locally. Last updated: 2026-11-15.
 
 ## Table of Contents
@@ -18,7 +16,6 @@ Status: early prototype, running locally. Last updated: 2026-11-15.
 6. [Roadmap](#roadmap)
 7. [Contributing](#contributing)
 8. [License](#license)
-9. [Contact](#contact)
 
 ## About the Project
 
@@ -186,9 +183,5 @@ This is a private project and contributions happen through repository access gra
 ## License
 
 Proprietary. All rights reserved. Repository access doesn't grant permission to copy, modify, redistribute, or commercially use the software.
-
-## Contact
-
-Jack - TODO email - Project link: TODO repository URL
 
 <p align="right"><a href="#readme-top">back to top</a></p>
